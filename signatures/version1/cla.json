@@ -7,6 +7,14 @@
       "created_at": "2021-11-01T20:14:12Z",
       "repoId": 317968211,
       "pullRequestNo": 14
+    },
+    {
+      "name": "platformsh-devrel",
+      "id": 51342364,
+      "comment_id": 959356469,
+      "created_at": "2021-11-03T15:01:50Z",
+      "repoId": 317968211,
+      "pullRequestNo": 23
     }
   ]
 }
